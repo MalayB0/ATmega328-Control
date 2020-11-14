@@ -1,7 +1,0 @@
-#include<avr/io.h>
-
-void main()
-{
-	DDRD = 0xFF; // 포트 A의 첫번째 비트를 출력핀으로
-	PORTD = 0x00; // 11111110 첫번째 비트에 logic low? led on
-}

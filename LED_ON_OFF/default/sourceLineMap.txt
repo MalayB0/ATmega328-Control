@@ -1,0 +1,15 @@
+Address = 0x00000080  File:line:col:begin = C:\mc_class\real_first\default/../real_first.c:6:0:-1
+Address = 0x00000080  File:line:col:begin = C:\mc_class\real_first\default/../real_first.c:7:0:-1
+Address = 0x00000088  File:line:col:begin = C:\mc_class\real_first\default/../real_first.c:11:0:-1
+Address = 0x0000008a  File:line:col:begin = c:/winavr-20100110/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x0000008e  File:line:col:begin = C:\mc_class\real_first\default/../real_first.c:11:0:-1
+Address = 0x00000094  File:line:col:begin = c:/winavr-20100110/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x0000009a  File:line:col:begin = c:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:124:0:-1
+Address = 0x0000009c  File:line:col:begin = c:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:120:0:-1
+Address = 0x0000009e  File:line:col:begin = C:\mc_class\real_first\default/../real_first.c:13:0:-1
+Address = 0x000000a4  File:line:col:begin = c:/winavr-20100110/lib/gcc/../../avr/include/util/delay_basic.h:105:0:-1
+Address = 0x000000aa  File:line:col:begin = c:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:124:0:-1
+Address = 0x000000ac  File:line:col:begin = c:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:120:0:-1
+Address = 0x000000ae  File:line:col:begin = C:\mc_class\real_first\default/../real_first.c:9:0:-1
+Address = 0x000000b8  File:line:col:begin = C:\mc_class\real_first\default/../real_first.c:16:0:-1
+Address = 0x000000ba  File:line:col:begin = C:\mc_class\real_first\default/../real_first.c:16:0:-1

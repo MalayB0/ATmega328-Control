@@ -1,0 +1,16 @@
+#include<avr/io.h>
+#define F_CPU 16000000UL
+#include<util/delay.h>
+
+void main()
+{
+	DDRD = 0xFF; 
+	
+	for(int i=1 ; i<6 ; i++)
+	{
+		PORTD = 0xFF;
+		_delay_ms(500);
+		PORTD = 0x00; 
+		_delay_ms(500);
+	}
+}
